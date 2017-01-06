@@ -1,0 +1,1 @@
+配置cmseasy可用的nginx和php5-fpm环境。
